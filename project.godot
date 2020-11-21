@@ -16,10 +16,10 @@ _global_script_class_icons={
 [application]
 
 config/name="Godot-template"
-config/description="Godot Template 3.2.2
-https://github.com/DeybisMelendez/godot-template"
 run/main_scene="res://Scenes/Main.tscn"
 config/icon="res://icon.png"
+config/description="Godot Template 3.2.2
+https://github.com/DeybisMelendez/godot-template"
 
 [input]
 

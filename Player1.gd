@@ -2,7 +2,7 @@ extends KinematicBody2D
 
 var direccion = Vector2(0,0)
 var velocidad = 200
-var gravedad= 200
+var gravedad= 100
 var sentido = 0
 var salto=200
 
